@@ -1,0 +1,13 @@
+training_modules:
+  impromptu:
+    - "Why is empathy important?"
+    - "Discuss the impact of technology on communication."
+    - "How can public speaking skills benefit a person’s career?"
+  storytelling:
+    - "Tell a short story about resilience."
+    - "Narrate a personal experience where you overcame fear."
+    - "Describe a fictional hero’s journey."
+  conflict:
+    - "Your teammate is frustrated with a project deadline. How do you handle it?"
+    - "A customer is angry about a service issue. What do you say?"
+    - "A friend misunderstood your words and is upset. How do you resolve it?"
